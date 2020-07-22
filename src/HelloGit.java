@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 //		System.out.println("My second statement");
 //		System.out.println("My third statement");
+		System.out.println("Adding new line to the child branch");
 		
 
 	}
